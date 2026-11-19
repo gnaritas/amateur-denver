@@ -1,0 +1,8 @@
+{
+  "name": "amateur-denver",
+  "version": "1.0.0",
+  "description": "Amateur — chef-driven bistro & wine bar concept, West Highlands, Denver CO (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
